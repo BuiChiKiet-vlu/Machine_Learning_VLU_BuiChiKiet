@@ -1,9 +1,9 @@
 # Chương 1: Hồi quy tuyến tính
 
-**Sinh viên:** Bùi Chí Kiệt
-**Mã số sinh viên:** 2374802010255
-**Giảng viên lý thuyết + thực hành:** ThS. Nguyễn Thái Anh
-**Học kỳ:** Năm học 2026 – 2027
+**Sinh viên:** Bùi Chí Kiệt <br>
+**Mã số sinh viên:** 2374802010255 <br>
+**Giảng viên lý thuyết + thực hành:** ThS. Nguyễn Thái Anh <br>
+**Học kỳ:** Năm học 2026 – 2027 <br>
 
 ---
 
@@ -27,15 +27,6 @@ Bài này xây dựng một mô hình dự đoán giá căn hộ dựa trên di�
 - Dùng được cả công thức tay và `scikit-learn` để huấn luyện mô hình hồi quy tuyến tính.
 - Hiểu và cài đặt được gradient descent cơ bản, biết cách chọn tốc độ học phù hợp.
 - Xây dựng được mô hình hồi quy tuyến tính với nhiều biến đầu vào.
-
-## Cấu trúc thư mục nộp bài
-
-```
-bai01_hoi_quy/
-├── data/gia_nha.csv
-├── code/               (các tệp mẫu b1 → b7)
-└── baitap01/           (bài làm: bai1.py → bai6.py, bai2.png)
-```
 
 ## Ghi chú
 
